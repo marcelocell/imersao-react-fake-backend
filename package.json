@@ -1,0 +1,14 @@
+{
+  "name": "imersao-react-fake-backend",
+  "version": "0.1.0",
+  "description": "backend fake utilizado para fins didáticos de react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Jr",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
